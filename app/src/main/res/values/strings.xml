@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My SoundBox</string>
+    <string name="service_name">My SoundBox Voice Service</string>
+</resources>

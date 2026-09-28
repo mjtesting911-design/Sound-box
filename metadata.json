@@ -1,0 +1,6 @@
+{
+  "name": "My SoundBox",
+  "description": "Smart UPI payment voice alert soundbox for GPay, PhonePe, Paytm, and BHIM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
